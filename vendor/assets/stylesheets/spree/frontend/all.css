@@ -9,3 +9,7 @@
  *= require_tree .
  *= require spree/fancy
 */
+#search-bar form{
+	right:10px !important;
+	margin-top: 0px !important;
+}
