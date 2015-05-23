@@ -81,5 +81,3 @@ test:
 production:
   <<: *default
   database: yfabrics_production
-  username: yfabrics
-  password: Yfabrics123
